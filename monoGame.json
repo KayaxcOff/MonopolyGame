@@ -1,8 +1,26 @@
-{
-  "name" : "Muhammet",
-  "cash" : 100,
-  "debt" : 50,
-  "position" : 0,
-  "properties" : [],
-  "in_jail" : "false"
-}
+[
+  {
+    "name" : "Muhammet",
+    "cash" : "100",
+    "debt" : "50",
+    "position" : 0,
+    "properties" : [],
+    "in_jail" : false
+  },
+  {
+    "name" : "Mustafa",
+    "cash" : "150",
+    "debt" : "30",
+    "position" : 0,
+    "properties" : [],
+    "in_jail" : false
+  },
+  {
+    "name" : "Meryem",
+    "cash" : "200",
+    "debt" : "20",
+    "position" : 0,
+    "properties" : [],
+    "in_jail" : false
+  }
+]
